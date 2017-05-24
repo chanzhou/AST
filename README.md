@@ -7,4 +7,7 @@ The basic algorithm and its applications are described in the following publicat
 
 Software requirements: AST was developed in PERL language, so PERL version 5.8.1 or later must be pre-installed. It has been installed, tested and run successfully in Linux OS with more than 7G memory.  It may be run in MS Windows with installed PERL.
 
-The installation and usage are included in the "README" file of the tar ball.
+To decompress  the tar ball in Linux OS: 
+$ tar -zxvf AST_r0.4.tgz
+$ tar -zxvf AST_Gorden_r0.4.tgz
+User instruction is provided in the "README" file included in that package.
